@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME: RAMESH RENUKA</H3>
-<H3>ENTER YOUR REGISTER NO: 212223240136</H3>
+<H3>NAME : RAMESH RENUKA</H3>
+<H3>REGISTER NO : 212223240136 </H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:31.08.2026</H3>
+<H3>DATE: 31.08.2026 </H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
@@ -17,7 +17,8 @@ Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) 
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
 <H3>Program: </H3>
-```
+
+```python
 import numpy as np
 import pandas as pd
 from sklearn.neural_network import MLPClassifier
@@ -57,11 +58,11 @@ print("\nConfusion Matrix:")
 print(conf_matrix)
 print("\nClassification Report:")
 print(classification_rep)
-
 ```
 
 <H3>Output:</H3>
-<img width="695" height="687" alt="image" src="https://github.com/user-attachments/assets/8537cf75-a819-4abc-acd3-08e7694e09e0" />
+
+<img width="695" height="687" alt="image" src="https://github.com/user-attachments/assets/64e3c327-c9ee-42b9-83aa-4db403dbc44e" />
 
 
 <H3>Results:</H3>
